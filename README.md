@@ -83,13 +83,13 @@ I am open to collaborating on Open-Source projects and am always happy to assist
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="display:inline;"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashwatjha018&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" height="100%"  />
+<img src="https://github-readme-stats.vercel.app/api?username=shashwatjha018&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%"/>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatjha018&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatjha018&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%"/>
 
 </td></tr>
 
