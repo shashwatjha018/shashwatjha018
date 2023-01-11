@@ -83,7 +83,7 @@ I am open to collaborating on Open-Source projects and am always happy to assist
 
 
 ## Github Stats  
-<table style="display:inline;"><tr><td valign="top" width="50%">
+<table style="display:inline-block;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shashwatjha018&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%"/>
 
